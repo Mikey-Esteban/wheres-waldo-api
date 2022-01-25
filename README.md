@@ -1,24 +1,5 @@
-# README
+# WHERES WALDO PROJECT FROM [THE ODIN PROJECT](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app-javascript)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### live version [here](https://wheres-waldo-mikey-esteban.netlify.app/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Built with a React frontend and a Rails API backend (to hold, load up scores)
